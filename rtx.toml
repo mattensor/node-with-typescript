@@ -1,0 +1,8 @@
+[env]
+DOMAIN = ''
+
+[tools]
+node = ['22.1.0']
+
+[settings]
+verbose = true
